@@ -43,7 +43,7 @@ These examples are designed to be **adaptable to real-world workflows** across d
   - MySQL / PostgreSQL (`SQLAlchemy`, `psycopg2`)  
   - 
 
-- **☁️ Big Data Pipelines **  
+- **☁️ Big Data Pipelines**  
   Examples with:  
   - Hadoop (HDFS)  
   - Hive & Pig  
@@ -55,13 +55,17 @@ These examples are designed to be **adaptable to real-world workflows** across d
 
 data-extraction/
 │── web_scraping/ # Scripts and notebooks for scraping websites & APIs
+
 │── document_parsing/ # PDF, Word, text extraction examples
+
 │── spreadsheet_handling/ # Excel and CSV extraction
+
 │── database_extraction/ # SQL scripts and Python connectors
+
 │── bigdata_pipelines/ # Hive, Pig, HDFS, MongoDB workflows
-│── etl_workflows/ # End-to-end ETL pipelines
-│── data_cleaning/ # Preprocessing and transformation examples
+
 │── README.md # Project documentation
+
 │── requirements.txt # Python dependencies
 
 
