@@ -21,7 +21,7 @@ Usage examples:
   python document_parsing/pdf_extract.py --in ./samples/sample.pdf --outdir out/sample_pdf
 
   # download from URL
-  python document_parsing/pdf_extract.py --url https://arxiv.org/pdf/1706.03762.pdf --outdir out/attention
+  python C:\Harosha\My-VScode-Projects\data-extraction\document_parsing\pdf_extract.py --url https://arxiv.org/pdf/1706.03762.pdf --outdir out/attention
 
   # tweak table extraction sensitivity
   python document_parsing/pdf_extract.py --in sample.pdf --outdir out/sample --edge-min 3 --text-x-tol 2 --text-y-tol 2
